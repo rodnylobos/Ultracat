@@ -5,7 +5,7 @@
 This project is an unsolicitied version of the mascot. I used **Illustrator** and **Photoshop** to make it.
 
 
-![Ultracat by Rodny] (http://rodnylobos.com/img/ultracat.png)
+![Ultracat by Rodny] (http://s3.amazonaws.com/projeqt-matrix/web/fullscreen/1213/4614edcfafef56f6baf410a1d30044f5.jpg)
 
 ## Just for fun
 
