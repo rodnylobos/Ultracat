@@ -17,5 +17,5 @@ I tried to contact somebody at GitHub, but they told me that it was just for the
 Anyways, I had fun!
 
 
-See their other amazing versions here: [Octodex] (https://octodex.github.com/ui/logo.png)
+See their other amazing versions here: [Octodex] (https://octodex.github.com/)
 
