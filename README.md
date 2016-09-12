@@ -2,7 +2,7 @@
 
 ### GitHub Octocat hack.
 
-This project is an unsolicitied version of the mascot. 
+This project is an unsolicited version of the GitHub mascot. 
 To make it I used **Adobe Illustrator** and **Adobe Photoshop**.
 
 
